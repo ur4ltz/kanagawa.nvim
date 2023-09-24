@@ -192,7 +192,7 @@ function M.setup(colors, config)
         -- Lazy
         LazyProgressTodo = { fg = theme.ui.nontext },
 
-        -- Navic
+        -- Nvim-Navic
         NavicIconsFile = { link = "Directory" },
         NavicIconsModule = { link = "TSInclude" },
         NavicIconsNamespace = { link = "TSInclude" },
